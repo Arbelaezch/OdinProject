@@ -1,0 +1,17 @@
+footer {
+	color: black;
+	font-size: large;
+	justify-content: center;
+	display: flex;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	
+}
+
+img {
+	width: 3em;
+	display: inline-block;
+}
