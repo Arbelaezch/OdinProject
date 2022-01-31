@@ -12,6 +12,6 @@ Library Web App
 [Rock Paper Scissors](http://arbelaezch.ca/pages/portfolio/projects/rps/rps.html)
 - Completed July 26, 2021.
 
-[Other JavaScript Exercises](./javascript-exercises)
+[Other JavaScript Exercises](./exercises)
 
 
